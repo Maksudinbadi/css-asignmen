@@ -1,0 +1,13 @@
+Q: what are advantages and disadavantages of usings external style sheet ?
+Ans:
+    ** advantages of stylesheets **
+    1. with the help of external style sheets,the style sheets,the styles of numerous documents can be orginized from one single file.
+    2. in external style sheets , classes can be made for use on numberous html elements types in many forms of the site.
+    3. in complex contexts,methods like selector and grouping can be implemented to apply styles.
+
+    ** disadvantages of external style sheets ** 
+    1. an extra download is essential to import style informations for each file.
+    2. the execution of the file maay be deferred till the external style sheet is loaded.
+    3. while implementings style sheets, we need to test web pages with multiple browsers in order to checck complatibility issues.
+    
+

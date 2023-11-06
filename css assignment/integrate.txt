@@ -1,0 +1,7 @@
+Q: what are the ways to integrate css as a web pages ?
+Ans:
+    css may be added to html in three diffrent ways .
+    to styles a single html element on the pages,use inline css in a style attributes.
+    by additing  css to the head selction of our html documents , we can embeded an internal stylesheet.
+    we can embed an internal stylesheet.we can also content to an external stylesheet that sepreates our css from our html
+        

@@ -1,0 +1,4 @@
+Q: which property controls the image scrolls in the background ?
+Ans:
+    the background-attachments property sets whether a background image scrolls with the rest of the page,or is fixed.
+    

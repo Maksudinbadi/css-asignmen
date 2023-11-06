@@ -1,0 +1,7 @@
+Q: what do you understand by css opacity ?
+Ans:
+    the opacity css property sets the opacity of an elements.
+    opacity is the degree to which contents behinds an element is hidden, and is the opposite of transparency.
+    thus the elements and its childern all have the same opacity relative to the element's background,even if they 
+    have diffrent opacities relative to one another.
+    

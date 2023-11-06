@@ -1,0 +1,6 @@
+Q: What are external style sheets ?
+Ans:
+    external style sheets is aseprate css files that can be accessed by creating a link withing the head selection of the webpages.
+    multiple webpages can use the same link to access the stylesheets.
+    the link to an external style sheet is placed withing the head selection.
+    

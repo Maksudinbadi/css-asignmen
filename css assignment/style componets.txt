@@ -1,0 +1,7 @@
+Q: name a few css style components.
+Ans:
+    properties:
+               these are human-readable identifiers that indicate which stylistic features you want to modify.
+               for examples: font-size,width,background-color.
+    values:
+               each property is assigned a value.this value indicates how to style the property.           

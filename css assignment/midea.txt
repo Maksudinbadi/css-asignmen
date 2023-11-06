@@ -1,0 +1,5 @@
+Q: what are the midea types allowed by css ?
+Ans:
+    css midea types are used in midea quries, which allows you to apply diffrent styles depending on the output device.
+    you can use the css @midea at rule to create midea queries that test for certain midea types ,then apply styles accourding.
+     

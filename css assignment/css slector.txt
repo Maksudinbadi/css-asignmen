@@ -1,0 +1,5 @@
+Q: what is the meanings of css selector ?
+Ans:
+     a css selectors is the first part of a css rules.
+     it is a pattent of elements and other terms that tell the browser which html elements should be selected to have the css property valuse inside the rules applied to
+     

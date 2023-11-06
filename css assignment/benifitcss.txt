@@ -1,0 +1,9 @@
+Q: what are the benifit of using css ?
+ans:
+    faster page speed.more code means slower page speed.
+    better user experience.css not only makes web pages easy on the eye,it also allows for uesr-friendly formating.
+    lightweight code.
+    faster downloading times.
+    search engine optimization benifit.
+    ease of presentings differnt styles to differnt viewers.
+    greater accessibility.

@@ -1,0 +1,8 @@
+Q: how maintain the css specifications ?
+Ans:
+    the css specification prior  to css was a single specification,css3
+    on the other hand is divided into modules which are independent specification
+    that can be worked on by different author at different paces,that's why we have
+     selector level3 specification,css color 4,css backgrounds and so on.some of these modules are revisions of css2.1,
+     and some newly created,but all fall under the banner of css3.
+    

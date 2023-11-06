@@ -1,0 +1,8 @@
+Q: how center block elements using css1 ?
+Ans:
+    positioning your element,such as buttons,content boxes,text and image,is what alignment is all abouts.
+    aligning in web design is lining up the parts currextly or in a straight line.
+    in certain web design strategies,alignments is deliberately broken to an asymmetrical design.
+    to centrally align the block elements,we can simply make use of the <center>tag.
+    all the elements within the <center> tag will be centrally.
+    

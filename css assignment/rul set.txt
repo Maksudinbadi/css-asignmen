@@ -1,0 +1,5 @@
+Q: what is the rule set ?
+Ans:
+    a collection of rules of signatures that network traffic or system activity is compared against to determine an action 
+    to take such as forwardings or rejectings a packets,creatings an alert ,or allowings asystem evensts
+    

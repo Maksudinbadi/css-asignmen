@@ -1,0 +1,5 @@
+Q:why should background and color be used as separateed property ?
+Ans:
+    there are two reasons behinds this it enhances the legibility of style sheets.
+    the background property is a complex property in css,and if it is combined with color,the complexity will further increase.
+    

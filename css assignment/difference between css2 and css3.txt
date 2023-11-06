@@ -1,0 +1,7 @@
+Q.what is difference between css2 and css3 ?
+Ans:
+    the biggest difference between css2 and css3 is that css3 has been split into different sections,called modules.
+    each of these modules is making its way through the w3c in various stages of the recommendation process.
+    these modulesis makings its ways through the w3c in various stages of the w3c in various stages of the recommendation process.
+    this process has made it much easier for various pieces of  css3 to be accepted and implemented in the  browser by differnt                           
+    manufactures.

@@ -1,0 +1,7 @@
+Q: what are desadvantages of css?
+ans:
+   1. css,css3,result in creatings of confusion among web browser.
+   2. there exists a scarcity of sequrity.
+   3. the programings language world is complicated for non-devlopers and beginners.
+   4. there might be cross browser issue while using css.
+   5. there are multiple levels which creates confusion for non devloperrs and beginners.
